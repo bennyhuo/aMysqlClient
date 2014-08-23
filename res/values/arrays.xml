@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="hints">
+        <item>ADD</item>
+        <item>ALL</item>
+        <item>ALTER</item>
+        <item>ANALYZE</item>
+        <item>AND</item>
+        <item>AS</item>
+        <item>ASC</item>
+        <item>ASENSITIVE</item>
+        <item>BEFORE</item>
+        <item>BETWEEN</item>
+        <item>BIGINT</item>
+        <item>BINARY</item>
+        <item>BLOB</item>
+        <item>BOTH</item>
+        <item>BY</item>
+        <item>CALL</item>
+        <item>CASCADE</item>
+        <item>CASE</item>
+        <item>CHANGE</item>
+        <item>CHAR</item>
+        <item>CHARACTER</item>
+        <item>CHECK</item>
+        <item>COLLATE</item>
+        <item>COLUMN</item>
+        <item>CONDITION</item>
+        <item>CONNECTION</item>
+        <item>CONSTRAINT</item>
+        <item>CONTINUE</item>
+        <item>CONVERT</item>
+        <item>CREATE</item>
+        <item>CROSS</item>
+        <item>CURRENT_DATE</item>
+        <item>CURRENT_TIME</item>
+        <item>CURRENT_TIMESTAMP</item>
+        <item>CURRENT_USER</item>
+        <item>CURSOR</item>
+        <item>DATABASE</item>
+        <item>DATABASES</item>
+        <item>DAY_HOUR</item>
+        <item>DAY_MICROSECOND</item>
+        <item>DAY_MINUTE</item>
+        <item>DAY_SECOND</item>
+        <item>DEC</item>
+        <item>DECIMAL</item>
+        <item>DECLARE</item>
+        <item>DEFAULT</item>
+        <item>DELAYED</item>
+        <item>DELETE</item>
+        <item>DESC</item>
+        <item>DESCRIBE</item>
+        <item>DETERMINISTIC</item>
+        <item>DISTINCT</item>
+        <item>DISTINCTROW</item>
+        <item>DIV</item>
+        <item>DOUBLE</item>
+        <item>DROP</item>
+        <item>DUAL</item>
+        <item>EACH</item>
+        <item>ELSE</item>
+        <item>ELSEIF</item>
+        <item>ENCLOSED</item>
+        <item>ESCAPED</item>
+        <item>EXISTS</item>
+        <item>EXIT</item>
+        <item>EXPLAIN</item>
+        <item>FALSE</item>
+        <item>FETCH</item>
+        <item>FLOAT</item>
+        <item>FLOAT4</item>
+        <item>FLOAT8</item>
+        <item>FOR</item>
+        <item>FORCE</item>
+        <item>FOREIGN</item>
+        <item>FROM</item>
+        <item>FULLTEXT</item>
+        <item>GOTO</item>
+        <item>GRANT</item>
+        <item>GROUP</item>
+        <item>HAVING</item>
+        <item>HIGH_PRIORITY</item>
+        <item>HOUR_MICROSECOND</item>
+        <item>HOUR_MINUTE</item>
+        <item>HOUR_SECOND</item>
+        <item>IF</item>
+        <item>IGNORE</item>
+        <item>IN</item>
+        <item>INDEX</item>
+        <item>INFILE</item>
+        <item>INNER</item>
+        <item>INOUT</item>
+        <item>INSENSITIVE</item>
+        <item>INSERT</item>
+        <item>INT</item>
+        <item>INT1</item>
+        <item>INT2</item>
+        <item>INT3</item>
+        <item>INT4</item>
+        <item>INT8</item>
+        <item>INTEGER</item>
+        <item>INTERVAL</item>
+        <item>INTO</item>
+        <item>IS</item>
+        <item>ITERATE</item>
+        <item>JOIN</item>
+        <item>KEY</item>
+        <item>KEYS</item>
+        <item>KILL</item>
+        <item>LABEL</item>
+        <item>LEADING</item>
+        <item>LEAVE</item>
+        <item>LEFT</item>
+        <item>LIKE</item>
+        <item>LIMIT</item>
+        <item>LINEAR</item>
+        <item>LINES</item>
+        <item>LOAD</item>
+        <item>LOCALTIME</item>
+        <item>LOCALTIMESTAMP</item>
+        <item>LOCK</item>
+        <item>LONG</item>
+        <item>LONGBLOB</item>
+        <item>LONGTEXT</item>
+        <item>LOOP</item>
+        <item>LOW_PRIORITY</item>
+        <item>MATCH</item>
+        <item>MEDIUMBLOB</item>
+        <item>MEDIUMINT</item>
+        <item>MEDIUMTEXT</item>
+        <item>MIDDLEINT</item>
+        <item>MINUTE_MICROSECOND</item>
+        <item>MINUTE_SECOND</item>
+        <item>MOD</item>
+        <item>MODIFIES</item>
+        <item>NATURAL</item>
+        <item>NO_WRITE_TO_BINLOG</item>
+        <item>NOT</item>
+        <item>NULL</item>
+        <item>NUMERIC</item>
+        <item>ON</item>
+        <item>OPTIMIZE</item>
+        <item>OPTION</item>
+        <item>OPTIONALLY</item>
+        <item>OR</item>
+        <item>ORDER</item>
+        <item>OUT</item>
+        <item>OUTER</item>
+        <item>OUTFILE</item>
+        <item>PRECISION</item>
+        <item>PRIMARY</item>
+        <item>PROCEDURE</item>
+        <item>PURGE</item>
+        <item>RAID0</item>
+        <item>RANGE</item>
+        <item>READ</item>
+        <item>READS</item>
+        <item>REAL</item>
+        <item>REFERENCES</item>
+        <item>REGEXP</item>
+        <item>RELEASE</item>
+        <item>RENAME</item>
+        <item>REPEAT</item>
+        <item>REPLACE</item>
+        <item>REQUIRE</item>
+        <item>RESTRICT</item>
+        <item>RETURN</item>
+        <item>REVOKE</item>
+        <item>RIGHT</item>
+        <item>RLIKE</item>
+        <item>SCHEMA</item>
+        <item>SCHEMAS</item>
+        <item>SECOND_MICROSECOND</item>
+        <item>SELECT</item>
+        <item>SENSITIVE</item>
+        <item>SEPARATOR</item>
+        <item>SET</item>
+        <item>SHOW</item>
+        <item>SMALLINT</item>
+        <item>SPATIAL</item>
+        <item>SPECIFIC</item>
+        <item>SQL</item>
+        <item>SQL_BIG_RESULT</item>
+        <item>SQL_CALC_FOUND_ROWS</item>
+        <item>SQL_SMALL_RESULT</item>
+        <item>SQLEXCEPTION</item>
+        <item>SQLSTATE</item>
+        <item>SQLWARNING</item>
+        <item>SSL</item>
+        <item>STARTING</item>
+        <item>STRAIGHT_JOIN</item>
+        <item>TABLE</item>
+        <item>TABLES</item>
+        <item>TERMINATED</item>
+        <item>THEN</item>
+        <item>TINYBLOB</item>
+        <item>TINYINT</item>
+        <item>TINYTEXT</item>
+        <item>TO</item>
+        <item>TRAILING</item>
+        <item>TRIGGER</item>
+        <item>TRUE</item>
+        <item>UNDO</item>
+        <item>UNION</item>
+        <item>UNIQUE</item>
+        <item>UNLOCK</item>
+        <item>UNSIGNED</item>
+        <item>UPDATE</item>
+        <item>USAGE</item>
+        <item>USE</item>
+        <item>USING</item>
+        <item>UTC_DATE</item>
+        <item>UTC_TIME</item>
+        <item>UTC_TIMESTAMP</item>
+        <item>VALUES</item>
+        <item>VARBINARY</item>
+        <item>VARCHAR</item>
+        <item>VARCHARACTER</item>
+        <item>VARYING</item>
+        <item>WHEN</item>
+        <item>WHERE</item>
+        <item>WHILE</item>
+        <item>WITH</item>
+        <item>WRITE</item>
+        <item>X509</item>
+        <item>XOR</item>
+        <item>YEAR_MONTH</item>
+        <item>ZEROFILL</item>
+    </string-array>
+    <string-array name="common_used_cmd">
+        <item>show databases</item>
+        <item>show tables</item>
+        <item>use ...</item>
+        <item>select ... from ...</item>
+        <item>select * from ...</item>
+        <item>show variables like \'...\'</item>
+    </string-array>
+    <string-array name="ops">
+        <item>Press \'mysql&gt;\'</item>
+        <item>Long press \'mysql&gt;\'</item>
+        <item>Press result table cells</item>
+    </string-array>
+    <string-array name="usages">
+        <item>Show recent cmds</item>
+        <item>Show common uses</item>
+        <item>Quick input the word you have pressed</item>
+    </string-array>
+    <string-array name="main_menu">
+        <item>Feedback</item>
+        <item>About</item>
+    </string-array>
+    <string-array name="about_title">
+        <item>Developer</item>
+        <item>Partners</item>
+        <item>QQ</item>
+        <item>Email</item>
+        <item>Site</item>
+        <item>Belief</item>
+    </string-array>
+    <string-array name="about_content">
+        <item>霍丙乾\nHuo Bingqian</item>
+        <item>钱露 杨婷 王威 邱志强</item>
+        <item>305779913</item>
+        <item>305779913@qq.com</item>
+        <item>http://purplecow.me</item>
+        <item>工匠精神\nCraftsman’s spirit</item>
+    </string-array>
+
+</resources>

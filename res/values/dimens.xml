@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="normal_item_height">48.33dp</dimen>
+    <dimen name="listview_firstline_textsize">17sp</dimen> <!-- 列表项第一行字体大小 -->
+    <dimen name="listview_secondline_textsize">14sp</dimen> <!-- 列表项第二行字体大小 -->
+
+</resources>

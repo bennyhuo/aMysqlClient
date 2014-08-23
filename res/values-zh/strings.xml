@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">aMysqlCli</string>
+    <string name="hello">Hello MysqlCli!</string>
+    <string name="action_settings">设置</string>
+    <string name="name">名称</string>
+    <string name="host">主机</string>
+    <string name="port">端口</string>
+    <string name="default_port">3306</string>
+    <string name="default_db">information_schema</string>
+    <string name="db">表名</string>
+    <string name="user">用户名</string>
+    <string name="password">密码</string>
+    <string name="add">添加</string>
+    <string name="connlist">服务器列表</string>
+    <string name="dblist">数据库</string>
+    <string name="tblist">表</string>
+    <string name="datalist">数据</string>
+    <string name="cmd">mysql></string>
+    <string name="schema">表结构</string>
+    <string name="if_update_conn">名称为 \' %1$s\' 的服务器已经存在 </string>
+    <string name="if_update_content">如果您正在添加一个新服务器，请点击返回并重命名，如果不是，可以点击更新以修改该名称对应的服务器信息。</string>
+    <string name="change_name">返回</string>
+    <string name="update_conn">更新</string>
+    <string name="illegal_conn_info">输入无效。请确保输入不为空，并且没有非法字符。</string>
+    <string name="add_conn_succ">添加成功</string>
+    <string name="update_conn_succ">更新成功</string>
+    <string name="add_conn_fail">添加失败</string>
+    <string name="unknown_err">未知错误</string>
+    <string name="show_db_working">正在查询，请稍候....</string>
+    <string name="empty_databases">结果什么都没有</string>
+    <string name="show_tb_working">正在查询，请稍候....</string>
+    <string name="empty_tables">结果什么都没有</string>
+    <string name="lost_connection">连接已经断开</string>
+    <string name="fail_to_connect">服务器无法连接</string>
+    <string name="normal_mode">简易模式</string>
+    <string name="cmd_mode">命令行模式</string>
+    <string name="edit">编辑服务器信息</string>
+    <string name="del">删除服务器信息</string>
+    <string name="go_data">查看数据</string>
+    <string name="go_schema">查看表结构</string>
+    <string name="first_page">First</string>
+    <string name="last_page">Last</string>
+    <string name="pre_page">Pre</string>
+    <string name="next_page">Nxt</string>
+    <string name="total_pages">Total %1$d pages, %2$d record(s)</string>
+    <string name="cur_page">page %1$d</string>
+    <string name="goto_text">Go to</string>
+    <string name="goto_label">页</string>
+    <string name="search_text">Search</string>
+    <string name="clear_text">Clear</string>
+    <string name="first_text">||&lt;-</string>
+    <string name="pre_text">&lt;-</string>
+    <string name="next_text">-&gt;</string>
+    <string name="last_text">-&gt;||</string>
+    <string name="data_status">-= 第%1$d页 &#8212; 共%2$d页 &#8212; %3$d条记录=-</string>
+    <string name="query_status">Query OK, %1$d rows affected (%2$.2f sec)</string>
+	<string name="query_hint">输入 \'help\' 查看帮助</string>
+	<string name="empty_sql">命令不能为空</string>
+	<string name="no_history">没有历史记录</string>
+	<string name="history_title">历史记录</string>
+
+	
+	<string name="result_sql">%s 的查询结果</string>
+	<string name="common_cmds_title">常用命令</string>
+	
+	<string name="feedback_umeng">意见反馈</string>
+	<string name="about">关于</string>
+</resources>

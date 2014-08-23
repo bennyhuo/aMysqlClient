@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">aMysqlCli</string>
+    <string name="hello">Hello MysqlCli!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="host">Host</string>
+    <string name="port">Port</string>
+    <string name="default_port">3306</string>
+    <string name="default_db">information_schema</string>
+    <string name="db">DbName</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="add">Add</string>
+    <string name="connlist">Connections list.</string>
+    <string name="dblist">Databases</string>
+    <string name="tblist">Tables</string>
+    <string name="datalist">Data</string>
+    <string name="cmd">mysql></string>
+    <string name="schema">Schema</string>
+    <string name="if_update_conn">The name \' %1$s\' is existed. </string>
+    <string name="if_update_content">Maybe you would like to add a new connection then you should go back to rename it. Otherwise, you can just update this with new inputs.</string>
+    <string name="change_name">Back</string>
+    <string name="update_conn">Update this</string>
+    <string name="illegal_conn_info">Inputs are invalid. Are your inputs empty ? Or do your inputs contain illegal characters?</string>
+    <string name="add_conn_succ">Add a connection successfully.</string>
+    <string name="update_conn_succ">Update a connection successfully.</string>
+    <string name="add_conn_fail">Failed to add a connection.</string>
+    <string name="unknown_err">An unknown error has occurred.</string>
+    <string name="show_db_working">Querying the databases....</string>
+    <string name="empty_databases">No databases were found.</string>
+    <string name="show_tb_working">Querying the tables....</string>
+    <string name="empty_tables">No tables were found.</string>
+    <string name="lost_connection">Connection is lost.</string>
+    <string name="fail_to_connect">Failed to connect server.</string>
+    <string name="normal_mode">GUI mode</string>
+    <string name="cmd_mode">CMD mode</string>
+    <string name="edit">Edit Connection</string>
+    <string name="del">Delete Connection</string>
+    <string name="go_data">Show data.</string>
+    <string name="go_schema">Show Schema.</string>
+    <string name="first_page">First</string>
+    <string name="last_page">Last</string>
+    <string name="pre_page">Pre</string>
+    <string name="next_page">Nxt</string>
+    <string name="total_pages">Total %1$d pages, %2$d record(s)</string>
+    <string name="cur_page">page %1$d</string>
+    <string name="goto_text">Go to</string>
+    <string name="goto_label">页</string>
+    <string name="search_text">Search</string>
+    <string name="clear_text">Clear</string>
+    <string name="first_text">||&lt;-</string>
+    <string name="pre_text">&lt;-</string>
+    <string name="next_text">-&gt;</string>
+    <string name="last_text">-&gt;||</string>
+    <string name="data_status">-= Page %1$d &#8212; Total %2$d pages &#8212; %3$d records.=-</string>
+    <string name="query_status">Query OK, %1$d rows affected (%2$.2f sec)</string>
+	<string name="query_hint">input \'help\' to if in need.</string>
+	<string name="empty_sql">sql should not be empty</string>
+	<string name="no_history">There is no history.</string>
+	<string name="history_title">Recent</string>
+	
+	<string name="help_text">HELP</string>
+	<string name="select_text">SELECT</string>
+	<string name="show_text">SHOW</string>
+	<string name="insert_text">INSERT</string>
+	<string name="update_text">UPDATE</string>
+	<string name="create_text">CREATE</string>
+	<string name="delete_text">DELETE</string>
+	<string name="from_text">FROM</string>
+	<string name="where_text">WHERE</string>
+	<string name="order_by_text">ORDER BY</string>
+	<string name="limit_text">LIMIT</string>
+	<string name="offset_text">OFFSET</string>
+	<string name="between_text">BETWEEN</string>
+	<string name="use_text">USE</string>
+	
+	<string name="result_sql">Result for : %s</string>
+	<string name="common_cmds_title">Common used</string>
+	<string name="main_menu">aMysqlCli</string>
+	
+	<string name="feedback_umeng">Feedback</string>
+	<string name="about">About</string>
+</resources>

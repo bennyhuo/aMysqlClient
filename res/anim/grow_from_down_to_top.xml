@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+	  <!-- 平移动画效果 从左到右  改变x轴坐标-->
+    <translate 
+        android:fromYDelta="50%"
+        android:toYDelta="0"
+        android:duration="600"
+    />
+	<alpha
+		android:interpolator="@android:anim/decelerate_interpolator"
+		android:fromAlpha="0.0" android:toAlpha="1.0"
+		android:duration="@android:integer/config_shortAnimTime"
+	/>
+</set>

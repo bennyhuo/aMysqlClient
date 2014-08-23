@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme">#77cc09</color>
+    
+    <color name="no_net_tips">#b3000000</color>
+    <color name="status_at">#77cc09</color> 
+    <color name="pt_light_blue">#D4E9FF</color>
+    <color name="pt_btn_click">#ECECEC</color>
+    <color name="pt_blue">#66a3e2</color>
+    <color name="pt_deep_blue">#2686bd</color>
+    <color name="pt_wechat_blue">#2972b2</color> 
+    <color name="pt_light_gray">#efefef</color>
+    <color name="pt_edit_item_gray">#585858</color>
+    <color name="pt_line_gray">#b2b2b2</color>
+    <color name="pt_weibo_detail_gray">#787878</color>
+    <color name="pt_line_light_gray">#d1d1d1</color>
+    <color name="pt_deep_gray">#787878</color>
+    <color name="pt_blue_gray">#efeff4</color>
+    <color name="pt_dial_deep_gray">#9f9f9f</color>
+    <color name="pt_tab_strip_gray">#4b4b4b</color>
+    <color name="pt_gray">#bbbbbb</color>
+    <color name="pt_face_gray">#e8e8e8</color>
+    <color name="pt_top_bg">#f76413</color>
+    <color name="pt_no_call_records">#9b9b9b</color>
+    <color name="pt_bottom_bg">#505050</color>
+    <color name="pt_cat">#9b9b9b</color>
+    <color name="pt_weiboshow_deep_green">#004159</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_grey">#cccccc</color>
+    <color name="black">#000000</color>
+    <color name="pt_heavy_black">#333333</color>
+    <color name="red">#FF0000</color>
+    <color name="pt_head_bg">#323232</color>
+    <color name="pt_head_title">#8D8D8D</color>
+    <color name="pt_container">#8C8C8C</color>
+    <color name="send_quene_bg">#DADADA</color>
+    <color name="pt_photo_date">#1d1d1d</color>
+    <color name="list_text">#ff343b46</color>
+    <color name="dialer_line_gray">#bababa</color> 
+    <color name="friend_update_new">#f5f4e3</color>
+    <color name="gudie_login_dismiss_default">#afafaf</color>
+    <color name="name_card_text_color">#b3000000</color>
+    <color name="bg_weiboshow_light_green">#e6d5ffd8</color>
+    <color name="bg_weiboshow_deep_green">#cc6de676</color>
+    <!-- 普通列表焦点色 -->
+    <color name="list_selector">#eeeeee</color>
+    
+    <!-- 列表分割区域颜色 -->
+    <color name="list_section">#f8f8f8</color>
+    
+    <!-- 列表分割线颜色 -->
+    <color name="list_line">#d1d1d1</color>
+    
+    <!-- 头像区域可切换的背景色 -->
+    <color name="avatar_changable_bg_blue">#51cad5</color>
+
+    <color name="search_high_light">#77cc09</color>
+    <color name="pt_deep_pink">#f76413</color>
+    <color name="pt_pink">#f76413</color>
+    <color name="pt_green">#53ba00</color>
+    <color name="pt_deep_green">#77cc09</color> 
+    <color name="pt_red">#ce0d0d</color>
+    <color name="pt_dial_red">#df3f2b</color>
+    <color name="guide_login_green_default">#7fbf2b</color>
+    <color name="guide_login_green_selected">#3d9403</color>
+    <color name="pt_orange">#f76413</color>
+    <color name="pt_link_blue">#2e5c8d</color>
+    
+    <!-- 圈子聊天时间背景色 -->
+    <color name="pt_time_bg">#C6C6C6</color>
+    <color name="pt_chat_bg">#e6e6e6</color>
+    <color name="pt_time_text">#ffffff</color>
+
+
+    <color name="transparent_background">#01ffffff</color>
+
+    <color name="home_bg_pressed">#000000</color>
+    <color name="home_cursor">#2972b2</color>
+    <color name="list_item_pressed">#e8e8e8</color>
+    <color name="bottom_menu_item_pressed">#f98f5b</color>
+    <color name="dialer_bottom_menu_item_pressed">#bbbbbb</color>
+    <color name="bg_bottom_menu">#b3000000</color>
+
+    <color name="post_status_bar">#EDEDED</color>
+
+    <!-- 生日提醒 -->
+    <color name="birthday_tag_green">#42b211</color>
+    <color name="birthday_tag_blue">#32b5e3</color>
+    
+    <color name="quanzi_item_name">#191919</color>
+    <color name="quanzi_item_content">#b0b0b0</color>
+    
+    <!-- 人人照片头点击效果 -->
+    <color name="renren_bg_pressed">#3c3c3c</color>
+    
+    <!-- 微博详情列表项颜色 -->
+    <color name="weibo_detail_list_item">#f7f7f7</color>
+    <color name="weibo_list_item">#e6e6e6</color>
+    <color name="weibo_comment_item">#ffffff</color>
+    <color name="weibo_content">#333333</color>
+    <color name="weibo_title">#1d1d1d</color>
+    
+    <!-- 手机号码匹配 -->
+    <color name="match_sync_save_normal">#7EBF2A</color>
+    <color name="match_sync_save_pressed">#7EBF2A</color>
+    
+    <color name="app_bg">#ffffff</color>
+    <color name="mobile_action_bg">#efefef</color>
+    <color name="header_title_text">#333333</color>
+    
+    <color name="bg_contact_avatar">#d0d0d0</color>
+    <color name="tips_color">#e2a064</color>
+    <color name="contacts_tips">@color/theme</color>
+    <color name="contacts_tips_text">@color/white</color>
+    <!-- 添加关联 -->
+    <color name="add_relationship">#77cc09</color>
+    
+    <!-- 二级ViewPager的游标颜色 -->
+    <color name="sub_navigation_cursor">#f98f5b</color>
+    
+    <!-- widget背景随机颜色 -->
+    <color name="bg_head_blue">#51cad5</color> <!-- 蓝 -->
+    <color name="bg_head_yellow">#ffb027</color> <!-- 黄 -->
+    <color name="bg_head_green">#77cc09</color> <!-- 绿 -->
+    <color name="bg_head_purple">#bd80fb</color> <!-- 紫 -->
+    <color name="bg_head_light_green">#08d65a</color> <!-- 翠绿 -->  
+    
+</resources>

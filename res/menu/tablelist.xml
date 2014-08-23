@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/schema"
+        android:orderInCategory="0"
+        android:title="@string/go_schema"/>
+    <item
+        android:id="@+id/data"
+        android:orderInCategory="1"
+        android:title="@string/go_data"/>
+
+</menu>
