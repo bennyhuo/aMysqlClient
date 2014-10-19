@@ -8,6 +8,8 @@ aMysqlClient
 1. 支持简易模式，可以直接查看Mysql数据库的表结构、表数据等等。
 2. 支持命令行模式，命令模式有历史记录，有常用命令支持，还有常用词快捷输入，支持事务等功能等等。
 
+详细介绍可以参考：http://blog.csdn.net/enbandarix/article/details/40107467
+
 # 使用方法 #
 这个应用是面向程序员的，我想这么简单的东西。。有问题还是直接发邮件吧，[huobingqian@purplecow.me](huobingqian@purplecow.me)
 
