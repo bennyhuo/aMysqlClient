@@ -1,6 +1,0 @@
-/proguard
-/bin
-/gen
-/purplecow.keystore
-/*.keystore
-/MyAndroidKey.keystore
