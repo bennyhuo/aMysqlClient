@@ -9,7 +9,7 @@ aMysqlClient
 2. 支持命令行模式，命令模式有历史记录，有常用命令支持，还有常用词快捷输入，支持事务等功能等等。
 
 # 使用方法 #
-这个应用是面向程序员的，我想这么简单的东西。。有问题还是直接发邮件吧，[huobingqian@purplecow.me](huobingqian@purplecow.me)
+这个应用是面向程序员的，我想这么简单的东西。。有问题还是直接发邮件吧，[enbandari@qq.com](enbandari@qq.com)
 
 # 鸣谢 #
 1. 项目中使用到了Spring jdbc, Dbcp连接池这些web应用中常见的框架，也用到了国内杨福海大神开源的Afinal框架的db模块。感谢。
